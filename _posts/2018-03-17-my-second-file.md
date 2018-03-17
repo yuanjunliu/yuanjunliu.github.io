@@ -13,4 +13,5 @@ categories: 杂谈
 ## markdown
 [markdown](https://www.appinn.com/markdown/)
 ## Liquid
-[Liquid](https://help.shopify.com/themes/liquid/basics)
+[Liquid 官方文档](https://help.shopify.com/themes/liquid/basics
+[Liquid 中文文档)(https://liquid.bootcss.com/)
