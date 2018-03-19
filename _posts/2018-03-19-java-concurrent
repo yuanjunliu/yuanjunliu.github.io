@@ -1,2 +1,9 @@
+---
+layout: post
+title:  "前言"
+date:   2018-03-18 22:08
+categories: Java并发
+---
+
 # atomic文件夹下
 ![image](atomic.jpg)
