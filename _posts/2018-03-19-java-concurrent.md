@@ -6,4 +6,4 @@ categories: Java并发
 ---
 
 # atomic文件夹下
-![image](atomic.jpg)
+![image](/assets/atomic.jpg)
